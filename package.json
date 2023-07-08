@@ -1,0 +1,25 @@
+{
+  "name": "survival-bot",
+  "version": "1.0.1",
+  "description": "A bot made for a client.",
+  "authors": ["Wondermine ( Letschill )", "Bereck ( bereck. )"],
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js"
+  },
+  "author": "",
+  "license": "license",
+  "dependencies": {
+    "@iarna/toml": "^2.2.5",
+    "chalk": "^4.1.2",
+    "commander": "^11.0.0",
+    "minecraft-data": "^3.37.0",
+    "mineflayer": "^4.9.0",
+    "mineflayer-auto-eat": "^3.3.6",
+    "mineflayer-movement": "^0.4.4",
+    "mineflayer-pathfinder": "^2.4.4",
+    "mineflayer-pvp": "^1.3.2",
+    "toml": "^3.0.0",
+    "typescript": "^5.1.3"
+  }
+}
