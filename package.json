@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "A bot made for a client.",
   "authors": ["Wondermine ( Letschill )", "Bereck ( bereck. )"],
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "start": "tsc && node dist/index.js"
   },
